@@ -11,28 +11,28 @@ Git Kraken was used as a Git GUI client for the projects
 ## Project Descriptions
 
 ### Animations: 
-Description: Trying out animations for loading screen and gesture recognizers. Used libraries from Cocoa-pods and https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/framework.md<br/>
-Languages used: Swift and Obj-C
+**Description**: Trying out animations for loading screen and gesture recognizers. Used libraries from Cocoa-pods and https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/framework.md<br/>
+**Languages used**: Swift and Obj-C
 
 ### Autolayout Practice with Dicee-iOS-11: 
-Description: Learning to use Autoloayout for the projects to allow the projects to be runnable on all the iOS devices<br/>
-Languages used: Swift
+**Description**: Learning to use Autoloayout for the projects to allow the projects to be runnable on all the iOS devices<br/>
+**Languages used**: Swift
 
 ### Destini iOS 11
-Description: Works like magic ball (I guess?). Works like a storyline with different outcomes<br/>
-Languages used: Swift
+**Description**: Works like magic ball (I guess?). Works like a storyline with different outcomes<br/>
+**Languages used**: Swift
 
 ### Dicee
-Description: Rolling dice application for iOS with sprites resembling casino table. Uses cocoapods for producing animations to produce the rolling effect<br/>
-Languages used: Swift, Obj-c
+**Description**: Rolling dice application for iOS with sprites resembling casino table. Uses cocoapods for producing animations to produce the rolling effect<br/>
+**Languages used**: Swift, Obj-c
 
 ### I AM RICH
-Description: Replicating the $1000 app on the app store. (P.s, it was the biggest scam of that century)<br/>
-Languages used: Swift
+**Description**: Replicating the $1000 app on the app store. (P.s, it was the biggest scam of that century)<br/>
+**Languages used**: Swift
 
 ### I AM POOR
-Description: You bought the $1000 app, now you're poor (jk). Learning to design our own UI elements for the storyboard and learning to make the app-icons for the application as well as the app-store. Used heavy animations for the project<br/>
-Languages used: Swift
+**Description**: You bought the $1000 app, now you're poor (jk). Learning to design our own UI elements for the storyboard and learning to make the app-icons for the application as well as the app-store. Used heavy animations for the project<br/>
+**Languages used**: Swift
 
 
 
