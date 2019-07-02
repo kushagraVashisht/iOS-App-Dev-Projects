@@ -14,7 +14,7 @@ Git Kraken was used as a Git GUI client for the projects
 **Description**: Trying out animations for loading screen and gesture recognizers. Used libraries from Cocoa-pods and https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/framework.md<br/>
 **Languages used**: Swift and Obj-C
 
-### Autolayout Practice with Dicee-iOS-11: 
+### Autolayout Practice with Dicee-iOS-11 
 **Description**: Learning to use Autoloayout for the projects to allow the projects to be runnable on all the iOS devices<br/>
 **Languages used**: Swift
 
