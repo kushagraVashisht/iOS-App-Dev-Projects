@@ -31,7 +31,7 @@ Git Kraken was used as a Git GUI client for the projects
 **Languages used**: Swift
 
 ### I AM POOR
-**Description**: You bought the $1000 app, now you're poor (jk). Learning to design our own UI elements for the storyboard and learning to make the app-icons for the application as well as the app-store. Used heavy animations for the project<br/>
+**Description**: You bought the $1000 app, now you're poor (jk). Learning to design my own UI elements for the storyboard and learning to make the app-icons for the application as well as the app-store. Used heavy animations for the project<br/>
 **Languages used**: Swift
 
 
