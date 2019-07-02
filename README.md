@@ -10,19 +10,19 @@ Git Kraken was used as a Git GUI client for the projects
 
 ## Project Descriptions
 
-### Animations: 
+### ANIMATIONS 
 **Description**: Trying out animations for loading screen and gesture recognizers. Used libraries from Cocoa-pods and https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/framework.md<br/>
 **Languages used**: Swift and Obj-C
 
-### Autolayout Practice with Dicee-iOS-11 
+### AUTOLAYOUT PRACTICE FOR DESTINI iOS 11 
 **Description**: Learning to use Autoloayout for the projects to allow the projects to be runnable on all the iOS devices<br/>
 **Languages used**: Swift
 
-### Destini iOS 11
+### DESTINI iOS 11
 **Description**: Works like magic ball (I guess?). Works like a storyline with different outcomes<br/>
 **Languages used**: Swift
 
-### Dicee
+### DICEE
 **Description**: Rolling dice application for iOS with sprites resembling casino table. Uses cocoapods for producing animations to produce the rolling effect<br/>
 **Languages used**: Swift, Obj-c
 
