@@ -4,8 +4,8 @@
 
 This project directory is made just for fun and to improve my programming level in iOS App Development. Some of the projects are my personal projects, some are sub-functionality programs which will be used inside main programs. The remaining projects are practice questions given as homework for the iOS-App-Dev course done on Udemy.
 The deliverables for the projects are individual iOS applications. 
-The projects use Swift, Obj-C and a variety of application-level dependency managers such as cocopods and carthage!
-Trello, Zenhub and Jira(few projects) were used for Agile project management
+The projects use Swift, Obj-C and Flutter(some apps) and a variety of application-level dependency managers such as cocopods and carthage!
+Trello, Zenhub and Jira(for a few projects) were used for Agile project management
 Git Kraken was used as a Git GUI client for the projects
 
 ## Project Descriptions
@@ -34,54 +34,43 @@ Git Kraken was used as a Git GUI client for the projects
 **Description**: You bought the $1000 app, now you're poor (jk). Learning to design my own UI elements for the storyboard and learning to make the app-icons for the application as well as the app-store. Used heavy animations for the project<br/>
 **Languages used**: Swift
 
+### MUSIC PLAYER
+**Description**: Learnt to use AVAudioKit for embedding Music player in an application. This is a sub-functionality app used for the main project during my internship<br/>
+**Languages used**: Swift, Obj-C
 
+### QUIZZLER
+**Description**: Same functionality as the Destini-11 with multiple storylines and outcomes<br/>
+**Languages used**: Swift
 
+### SW-BLADE MASTER
+**Description**: This is a sub-functionality program for the contract role at University of Melbourne. Learned to have the blade effect as used in Fruit Ninja<br/>
+**Languages used**: Swift, Obj-C and Adobe AfterEffects for UI
 
+### SPRITE BASED SWIPE LINES
+**Description**: This is a sub-functionality program for the contract role at University of Melbourne. Learned to cut the sprites with effects as used in Fruit Ninja<br/>
+**Languages used**: Swift, Obj-C
 
+### XYLOPHONE
+**Description**: Just playing with the SKAudio Kit for building a xylophone app in iOS<br/>
+**Languages used**: Swift
 
+### COREDATA PRACTICE
+**Description**: This is a sub-functionality program for one of my internships. Used for storing the applications permanent data for offline use, in this case the stored audio clips. Also used firebase to store the clips on a server.<br/>
+**Languages used**: Swift, Firebase
 
-The deliverable for this project will be a smartphone application, targeted at android users. The application will allow cared-for users to navigate outside independently, using the map, or with the help of a carer.
+### HEALTH BAR AUTOLAYOUT
+**Description**: This is a sub-functionality program for the contract role at University of Melbourne. Learned to have a health bar as used in Fruit Ninja. Used cocoapods for animations as well.<br/>
+**Languages used**: Swift, Obj-C
 
-The carer will assist through a variety of functions including voice and video calls, text chat, screen sharing and location services. This will allow the carer to provide direction and guidance to the elderly user. Additionally, the carer will be able to customize the cared-for individuals calendar which will automatically notify the user of such appointments so that they can complete some tasks independently.
+### LOGIN-PAGE APP
+**Description**: Created a login page app for the accenture bootcamp using Flutter a week in once it was released.<br/>
+**Languages used**: Flutter
 
-The cared-for individual will be able to add friends or carers, and communicate with them via text, voice or video call.
+## INSTRUCTIONS ON HOW TO RUN THE APPS
 
-They will also be able to customize their own calendars, allowing them to be notified of events and provided directions to these occasions easily and efficiently.
-
-APIs
-This project is built using:
-
-Firebase
-Authentication
-Friends lists
-Messages
-Calendar
-Mapbox
-Turn-by-turn Navigation
-Sinch
-Voice and Video calls
-Google API's
-Location Search
-Build Instructions
-Pull from the master branch and open the project in Android Studio.
-Plug in your phone, or start it on an emulator by pressing the play button.
-Test Instructions
-Test Modules are contained within:
-
-./app/src/test/java/com/example/ritusharma/itproject/
-Open any module to run it :D
-
-We attempted to write tests for Activities and Firebase methods, but after several hours of making no real progress (with issues importing PowerMockito into Android Studio) we decided it wasn't worth losing sleep over.
-
-App Flow
-The MainActivity is the Home Screen for the user. It displays the map (with the User's Location) and a search bar for navigation. It also contains a Drawer for navigating to other features.
-If the User isn't logged in when they open the app, the app will open the PhoneAuthActivity to ask the user to login to Firebase.
-Once a user has logged in or signed up, the EditUser activity will open. It allows the user to enter their details like Name, UserName and Caring Status, which is then written to firebase when the "next" button is pressed, which also navigates back to the MainActivity.
-The Drawer on MainActivity contains links to the other Activities within the app, like Calendar, Friends, MyDetails and LogOut.
-The Calendar activity allows users to add events to their personal calendar and view them in a RecyclerView, sorted by the selected Date.
-The FriendListActivity allows the user to see all the friends they currently have in their list, sorted by the date they added them. (Ideally, the carer will be the first friend they add so they'll always be on top of the list)
-The AddFriendActivity allows the user to add a friend by their Phone Number. The friend must add them back via their phone number to solidify the friend link, so they will likely have communicated in some other context before using the app together.
-The ChatRoomActivity is opened when a User clicks on one of the friends names. It displays the messages between the two users, and allows the user to send new messages. There are links to open a Sinch Video or Voice Call on the top panel.
-The CallingScreen link allows the user to return to an open Sinch call if one is open, otherwise it does nothing.
-Open Calls show the other user's name, a timer for the call, and the video if a video call is being placed.
-The Logout button logs the user out of firebase and Sinch and Opens the PhoneAuthActivity again.
+**STEPS**
+- Please download the latest version of xcode from here: https://apps.apple.com/us/app/xcode/id497799835?mt=12 <br/>
+- Connect to a device or run the app using the simulators <br/>
+- Detailed instructions on how to run an app on xcode can be found here: https://www.youtube.com/watch?v=YGOviWHPNjQ <br/>
+- Those who are further interested in cocoapods can find this link useful: https://www.youtube.com/watch?v=MuMZZtQpB6Y <br/>
+- Those who are further interested in carthage can find this link useful: https://www.youtube.com/watch?v=jLwx6sDjsIA <br/>
